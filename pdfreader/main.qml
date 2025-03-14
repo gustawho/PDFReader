@@ -1,7 +1,9 @@
 import org.kde.falkon 1.0 as Falkon
 
 Falkon.PluginInterface {
-    init: function() {}
+    init: function(state, settingsPath) {
+        console.log(i18n('"PDFReader" plugin loaded'))
+    }
     testPlugin: function() { return true }
     unload: function() {}
     
