@@ -5,7 +5,9 @@ PDF reader extension for Falkon using pdf.js
 
 ### Installation
 ```bash
-git clone https://github.com/tarptaeya/pdfreader
+git clone https://github.com/gustawho/pdfreader
+
+
 cd pdfreader
 mkdir build
 cd build
