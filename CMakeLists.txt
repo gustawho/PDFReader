@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.1)
 
-project(PDFReader VERSION 0.1)
+project(PDFReader VERSION 0.2)
 
 include(FeatureSummary)
 find_package(ECM 6.11.0 CONFIG)
